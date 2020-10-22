@@ -6,28 +6,28 @@
  "overwrites": {
   "role": {
    "623449115178565642": {
+    "manage_roles": false,
     "manage_messages": false,
     "manage_webhooks": false,
-    "manage_channels": false,
-    "manage_roles": false
+    "manage_channels": false
    }
   },
   "member": {
    "475916023690821642": {
-    "manage_messages": true,
-    "add_reactions": true,
-    "send_messages": true,
-    "external_emojis": true,
-    "mention_everyone": true,
-    "send_tts_messages": true,
-    "read_messages": true,
-    "manage_webhooks": true,
-    "manage_channels": true,
     "manage_roles": true,
+    "external_emojis": true,
+    "send_tts_messages": true,
+    "manage_messages": true,
+    "send_messages": true,
     "read_message_history": true,
-    "attach_files": true,
+    "manage_webhooks": true,
+    "read_messages": true,
     "embed_links": true,
-    "create_instant_invite": true
+    "add_reactions": true,
+    "manage_channels": true,
+    "create_instant_invite": true,
+    "attach_files": true,
+    "mention_everyone": true
    }
   }
  },

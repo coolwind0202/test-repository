@@ -6,8 +6,8 @@
  "overwrites": {
   "role": {
    "623449115178565642": {
-    "add_reactions": false,
-    "send_messages": false
+    "send_messages": false,
+    "add_reactions": false
    }
   },
   "member": {

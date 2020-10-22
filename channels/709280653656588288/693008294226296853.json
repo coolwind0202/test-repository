@@ -16,18 +16,18 @@
   },
   "member": {
    "470129095297073153": {
-    "send_messages": false,
+    "manage_roles": false,
     "send_tts_messages": false,
-    "read_messages": false,
-    "manage_roles": false
+    "send_messages": false,
+    "read_messages": false
    },
    "596890082590457858": {
+    "manage_roles": true,
     "manage_messages": true,
     "send_messages": true,
-    "read_messages": true,
     "manage_webhooks": true,
+    "read_messages": true,
     "manage_channels": true,
-    "manage_roles": true,
     "create_instant_invite": true
    },
    "406038722493022222": {

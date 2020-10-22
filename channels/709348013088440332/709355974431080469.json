@@ -10,8 +10,8 @@
    },
    "630274611270909962": {
     "send_messages": true,
-    "read_messages": true,
-    "read_message_history": true
+    "read_message_history": true,
+    "read_messages": true
    },
    "662536706305687582": {
     "send_messages": true
