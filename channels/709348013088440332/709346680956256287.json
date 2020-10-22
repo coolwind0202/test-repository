@@ -1,20 +1,20 @@
 {
- "name": "説明",
  "id": "説明",
- "position": 1,
- "type": "text",
+ "is_news": false,
+ "is_nsfw": false,
+ "name": "説明",
  "overwrites": {
+  "member": {},
   "role": {
    "623449115178565642": {
     "send_messages": false
    },
    "630035037202677761": {},
    "697080392842477568": {}
-  },
-  "member": {}
+  }
  },
- "topic": "",
+ "position": 1,
  "slowmode_delay": 0,
- "is_nsfw": false,
- "is_news": false
+ "topic": "",
+ "type": "text"
 }

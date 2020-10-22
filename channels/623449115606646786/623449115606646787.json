@@ -1,14 +1,14 @@
 {
- "name": "アルファイア",
+ "bitrate": 64000,
  "id": "アルファイア",
- "position": 5,
- "type": "voice",
+ "name": "アルファイア",
  "overwrites": {
+  "member": {},
   "role": {
    "699555395441655819": {}
-  },
-  "member": {}
+  }
  },
- "bitrate": 64000,
+ "position": 5,
+ "type": "voice",
  "user_limit": 0
 }

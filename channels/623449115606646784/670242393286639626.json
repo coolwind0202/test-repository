@@ -1,36 +1,36 @@
 {
- "name": "反省せよ",
  "id": "反省せよ",
- "position": 10,
- "type": "text",
+ "is_news": false,
+ "is_nsfw": false,
+ "name": "反省せよ",
  "overwrites": {
-  "role": {
-   "623449115178565642": {
-    "send_messages": false,
-    "read_messages": false
-   },
-   "699555395441655819": {
-    "send_messages": true,
-    "read_messages": true
-   },
-   "700678375089504406": {
-    "send_messages": true,
-    "read_messages": true
-   }
-  },
   "member": {
    "596890082590457858": {
-    "manage_roles": true,
-    "manage_messages": true,
-    "send_messages": true,
-    "manage_webhooks": true,
+    "create_instant_invite": true,
     "manage_channels": true,
-    "create_instant_invite": true
+    "manage_messages": true,
+    "manage_roles": true,
+    "manage_webhooks": true,
+    "send_messages": true
+   }
+  },
+  "role": {
+   "623449115178565642": {
+    "read_messages": false,
+    "send_messages": false
+   },
+   "699555395441655819": {
+    "read_messages": true,
+    "send_messages": true
+   },
+   "700678375089504406": {
+    "read_messages": true,
+    "send_messages": true
    }
   }
  },
- "topic": "",
+ "position": 10,
  "slowmode_delay": 0,
- "is_nsfw": false,
- "is_news": false
+ "topic": "",
+ "type": "text"
 }

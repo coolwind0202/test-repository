@@ -1,9 +1,14 @@
 {
- "name": "猥談",
  "id": "猥談",
- "position": 11,
- "type": "text",
+ "is_news": false,
+ "is_nsfw": false,
+ "name": "猥談",
  "overwrites": {
+  "member": {
+   "596890082590457858": {
+    "manage_messages": false
+   }
+  },
   "role": {
    "623449115178565642": {
     "read_messages": true
@@ -14,15 +19,10 @@
    "700678375089504406": {
     "send_messages": true
    }
-  },
-  "member": {
-   "596890082590457858": {
-    "manage_messages": false
-   }
   }
  },
- "topic": "少しだけ法を持ち込みました",
+ "position": 11,
  "slowmode_delay": 0,
- "is_nsfw": false,
- "is_news": false
+ "topic": "少しだけ法を持ち込みました",
+ "type": "text"
 }

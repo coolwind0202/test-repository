@@ -1,13 +1,13 @@
 {
+ "afk_channel_id": 670209480612511764,
+ "afk_timeout": 3600,
+ "mfa_level": 0,
  "name": "スーパーササダンゴマシン",
+ "owner_id": 476926182424838164,
  "region": [
   "japan",
   "japan"
  ],
- "afk_timeout": 3600,
- "owner_id": 476926182424838164,
- "mfa_level": 0,
- "afk_channel_id": 670209480612511764,
- "system_channel_id": 623449115606646785,
- "system_channel_flags": 0
+ "system_channel_flags": 0,
+ "system_channel_id": 623449115606646785
 }

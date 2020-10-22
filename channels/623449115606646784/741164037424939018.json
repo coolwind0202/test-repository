@@ -1,9 +1,10 @@
 {
- "name": "神の味噌汁",
  "id": "神の味噌汁",
- "position": 7,
- "type": "text",
+ "is_news": false,
+ "is_nsfw": false,
+ "name": "神の味噌汁",
  "overwrites": {
+  "member": {},
   "role": {
    "623449115178565642": {
     "read_messages": false
@@ -20,11 +21,10 @@
    "715818594927247372": {
     "read_messages": true
    }
-  },
-  "member": {}
+  }
  },
- "topic": "",
+ "position": 7,
  "slowmode_delay": 0,
- "is_nsfw": false,
- "is_news": false
+ "topic": "",
+ "type": "text"
 }

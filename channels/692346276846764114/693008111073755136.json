@@ -1,116 +1,116 @@
 {
- "name": "中津川",
  "id": "中津川",
- "position": 17,
- "type": "text",
+ "is_news": false,
+ "is_nsfw": false,
+ "name": "中津川",
  "overwrites": {
-  "role": {
-   "623449115178565642": {
-    "external_emojis": true,
-    "send_tts_messages": true,
-    "send_messages": true,
-    "read_message_history": true,
-    "manage_webhooks": true,
-    "read_messages": true,
-    "embed_links": true,
-    "add_reactions": true,
-    "attach_files": true,
-    "mention_everyone": true
-   }
-  },
   "member": {
-   "519434882460549169": {
-    "manage_roles": false,
-    "external_emojis": false,
-    "send_tts_messages": false,
-    "manage_messages": false,
-    "send_messages": false,
-    "read_message_history": false,
-    "manage_webhooks": false,
-    "read_messages": false,
-    "embed_links": false,
+   "475916023690821642": {
     "add_reactions": false,
-    "manage_channels": false,
-    "create_instant_invite": false,
     "attach_files": false,
-    "mention_everyone": false
+    "create_instant_invite": false,
+    "embed_links": false,
+    "external_emojis": false,
+    "manage_channels": false,
+    "manage_messages": false,
+    "manage_roles": false,
+    "manage_webhooks": false,
+    "mention_everyone": false,
+    "read_message_history": false,
+    "read_messages": false,
+    "send_messages": false,
+    "send_tts_messages": false
+   },
+   "519434882460549169": {
+    "add_reactions": false,
+    "attach_files": false,
+    "create_instant_invite": false,
+    "embed_links": false,
+    "external_emojis": false,
+    "manage_channels": false,
+    "manage_messages": false,
+    "manage_roles": false,
+    "manage_webhooks": false,
+    "mention_everyone": false,
+    "read_message_history": false,
+    "read_messages": false,
+    "send_messages": false,
+    "send_tts_messages": false
    },
    "570588461464158213": {
-    "external_emojis": false,
-    "send_tts_messages": false,
-    "send_messages": false,
-    "read_message_history": false,
-    "read_messages": false,
-    "embed_links": false,
     "add_reactions": false,
     "attach_files": false,
-    "mention_everyone": false
+    "embed_links": false,
+    "external_emojis": false,
+    "mention_everyone": false,
+    "read_message_history": false,
+    "read_messages": false,
+    "send_messages": false,
+    "send_tts_messages": false
    },
    "607807041104379924": {
+    "add_reactions": false,
+    "attach_files": false,
+    "create_instant_invite": false,
+    "embed_links": false,
     "external_emojis": false,
-    "send_tts_messages": false,
-    "send_messages": false,
+    "mention_everyone": false,
     "read_message_history": false,
     "read_messages": false,
-    "embed_links": false,
-    "add_reactions": false,
-    "create_instant_invite": false,
-    "attach_files": false,
-    "mention_everyone": false
-   },
-   "475916023690821642": {
-    "manage_roles": false,
-    "external_emojis": false,
-    "send_tts_messages": false,
-    "manage_messages": false,
     "send_messages": false,
-    "read_message_history": false,
-    "manage_webhooks": false,
-    "read_messages": false,
-    "embed_links": false,
-    "add_reactions": false,
-    "manage_channels": false,
-    "create_instant_invite": false,
-    "attach_files": false,
-    "mention_everyone": false
+    "send_tts_messages": false
    },
    "623770783369396224": {
-    "manage_roles": false,
-    "external_emojis": false,
-    "send_tts_messages": false,
-    "manage_messages": false,
-    "send_messages": false,
-    "read_message_history": false,
-    "manage_webhooks": false,
-    "read_messages": false,
-    "embed_links": false,
     "add_reactions": false,
-    "manage_channels": false,
-    "create_instant_invite": false,
     "attach_files": false,
-    "mention_everyone": false
+    "create_instant_invite": false,
+    "embed_links": false,
+    "external_emojis": false,
+    "manage_channels": false,
+    "manage_messages": false,
+    "manage_roles": false,
+    "manage_webhooks": false,
+    "mention_everyone": false,
+    "read_message_history": false,
+    "read_messages": false,
+    "send_messages": false,
+    "send_tts_messages": false
    },
    "677040897514536960": {
-    "manage_roles": true,
+    "manage_channels": true,
     "manage_messages": true,
-    "send_messages": true,
+    "manage_roles": true,
     "manage_webhooks": true,
     "read_messages": true,
-    "manage_channels": true
+    "send_messages": true
    },
    "703595224727027723": {
-    "manage_roles": true,
+    "manage_channels": true,
     "manage_messages": true,
-    "send_messages": true,
-    "read_message_history": true,
+    "manage_roles": true,
     "manage_webhooks": true,
+    "read_message_history": true,
     "read_messages": true,
-    "manage_channels": true
+    "send_messages": true
+   }
+  },
+  "role": {
+   "623449115178565642": {
+    "add_reactions": true,
+    "attach_files": true,
+    "embed_links": true,
+    "external_emojis": true,
+    "manage_webhooks": true,
+    "mention_everyone": true,
+    "read_message_history": true,
+    "read_messages": true,
+    "send_messages": true,
+    "send_tts_messages": true
    }
   }
  },
- "topic": "18禁",
+ "position": 17,
  "slowmode_delay": 0,
- "is_nsfw": false,
- "is_news": false
+ "topic": "18禁",
+ "type": "text"
 }

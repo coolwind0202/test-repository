@@ -1,11 +1,11 @@
 {
- "name": "メインテキスト",
  "id": "メインテキスト",
- "position": 2,
- "type": "category",
+ "is_nsfw": false,
+ "name": "メインテキスト",
  "overwrites": {
-  "role": {},
-  "member": {}
+  "member": {},
+  "role": {}
  },
- "is_nsfw": false
+ "position": 2,
+ "type": "category"
 }

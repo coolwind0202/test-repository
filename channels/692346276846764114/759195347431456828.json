@@ -1,14 +1,14 @@
 {
- "name": "バナナの部屋",
  "id": "バナナの部屋",
- "position": 27,
- "type": "text",
- "overwrites": {
-  "role": {},
-  "member": {}
- },
- "topic": "",
- "slowmode_delay": 0,
+ "is_news": false,
  "is_nsfw": false,
- "is_news": false
+ "name": "バナナの部屋",
+ "overwrites": {
+  "member": {},
+  "role": {}
+ },
+ "position": 27,
+ "slowmode_delay": 0,
+ "topic": "",
+ "type": "text"
 }

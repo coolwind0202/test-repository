@@ -1,24 +1,24 @@
 {
- "name": "じねんじょの音楽室",
+ "bitrate": 64000,
  "id": "じねんじょの音楽室",
- "position": 8,
- "type": "voice",
+ "name": "じねんじょの音楽室",
  "overwrites": {
+  "member": {},
   "role": {
    "623449115178565642": {
-    "send_messages": false,
+    "connect": false,
     "read_message_history": false,
     "read_messages": false,
-    "connect": false
+    "send_messages": false
    },
    "662536706305687582": {
-    "send_messages": true,
     "read_message_history": true,
-    "read_messages": true
+    "read_messages": true,
+    "send_messages": true
    }
-  },
-  "member": {}
+  }
  },
- "bitrate": 64000,
+ "position": 8,
+ "type": "voice",
  "user_limit": 0
 }

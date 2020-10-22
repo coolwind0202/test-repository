@@ -1,15 +1,15 @@
 {
- "name": "ブラボーイ",
+ "bitrate": 64000,
  "id": "ブラボーイ",
- "position": 6,
- "type": "voice",
+ "name": "ブラボーイ",
  "overwrites": {
+  "member": {},
   "role": {
    "623449115178565642": {},
    "699555395441655819": {}
-  },
-  "member": {}
+  }
  },
- "bitrate": 64000,
+ "position": 6,
+ "type": "voice",
  "user_limit": 0
 }

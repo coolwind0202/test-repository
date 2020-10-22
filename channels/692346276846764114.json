@@ -1,11 +1,11 @@
 {
- "name": "マンション",
  "id": "マンション",
- "position": 4,
- "type": "category",
+ "is_nsfw": false,
+ "name": "マンション",
  "overwrites": {
-  "role": {},
-  "member": {}
+  "member": {},
+  "role": {}
  },
- "is_nsfw": false
+ "position": 4,
+ "type": "category"
 }

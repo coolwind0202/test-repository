@@ -1,9 +1,10 @@
 {
- "name": "ドラフト杯関係",
  "id": "ドラフト杯関係",
- "position": 31,
- "type": "text",
+ "is_news": false,
+ "is_nsfw": false,
+ "name": "ドラフト杯関係",
  "overwrites": {
+  "member": {},
   "role": {
    "623449115178565642": {
     "read_messages": false
@@ -11,11 +12,10 @@
    "764075215168077834": {
     "read_messages": true
    }
-  },
-  "member": {}
+  }
  },
- "topic": "",
+ "position": 31,
  "slowmode_delay": 0,
- "is_nsfw": false,
- "is_news": false
+ "topic": "",
+ "type": "text"
 }

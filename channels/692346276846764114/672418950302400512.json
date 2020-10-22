@@ -1,83 +1,83 @@
 {
- "name": "カッシーの部屋",
  "id": "カッシーの部屋",
- "position": 20,
- "type": "text",
+ "is_news": false,
+ "is_nsfw": false,
+ "name": "カッシーの部屋",
  "overwrites": {
-  "role": {
-   "623449115178565642": {
-    "send_messages": false,
-    "read_messages": false
-   }
-  },
   "member": {
-   "460324212582645761": {
-    "send_messages": true,
+   "391176786320556034": {
     "read_message_history": true,
-    "read_messages": true
+    "read_messages": true,
+    "send_messages": true
+   },
+   "460324212582645761": {
+    "read_message_history": true,
+    "read_messages": true,
+    "send_messages": true
    },
    "475916023690821642": {
-    "send_messages": true,
     "read_message_history": true,
-    "read_messages": true
+    "read_messages": true,
+    "send_messages": true
    },
    "519434882460549169": {
-    "manage_roles": true,
+    "manage_channels": true,
     "manage_messages": true,
-    "send_messages": true,
-    "read_message_history": true,
+    "manage_roles": true,
     "manage_webhooks": true,
+    "read_message_history": true,
     "read_messages": true,
-    "manage_channels": true
+    "send_messages": true
    },
    "540877088270319616": {
-    "send_messages": true,
     "read_message_history": true,
-    "read_messages": true
+    "read_messages": true,
+    "send_messages": true
    },
    "563183817263677460": {
-    "send_messages": true,
     "read_message_history": true,
-    "read_messages": true
+    "read_messages": true,
+    "send_messages": true
    },
    "564240620433047561": {
-    "send_messages": true,
     "read_message_history": true,
-    "read_messages": true
+    "read_messages": true,
+    "send_messages": true
    },
    "564281923413868554": {
-    "send_messages": true,
     "read_message_history": true,
-    "read_messages": true
+    "read_messages": true,
+    "send_messages": true
    },
    "596890082590457858": {
-    "manage_roles": true,
+    "create_instant_invite": true,
+    "manage_channels": true,
     "manage_messages": true,
-    "send_messages": true,
+    "manage_roles": true,
     "manage_webhooks": true,
     "read_messages": true,
-    "manage_channels": true,
-    "create_instant_invite": true
-   },
-   "391176786320556034": {
-    "send_messages": true,
-    "read_message_history": true,
-    "read_messages": true
+    "send_messages": true
    },
    "625161458145034270": {
-    "send_messages": true,
     "read_message_history": true,
-    "read_messages": true
+    "read_messages": true,
+    "send_messages": true
    },
    "703595224727027723": {
-    "send_messages": true,
     "read_message_history": true,
-    "read_messages": true
+    "read_messages": true,
+    "send_messages": true
+   }
+  },
+  "role": {
+   "623449115178565642": {
+    "read_messages": false,
+    "send_messages": false
    }
   }
  },
- "topic": "作成して以来初のチャンネル公開；\n基本情報技術者試験の勉強メモ置き場と化した；\n\n読んだ上琴SS置き場；\n書いた落書き置き場；\nDTM練習；\n視聴中アニメ感想置き場；\nVue.jsやPythonなどプログラミングの勉強記録も兼ねる；",
+ "position": 20,
  "slowmode_delay": 10,
- "is_nsfw": false,
- "is_news": false
+ "topic": "作成して以来初のチャンネル公開；\n基本情報技術者試験の勉強メモ置き場と化した；\n\n読んだ上琴SS置き場；\n書いた落書き置き場；\nDTM練習；\n視聴中アニメ感想置き場；\nVue.jsやPythonなどプログラミングの勉強記録も兼ねる；",
+ "type": "text"
 }

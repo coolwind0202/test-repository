@@ -1,14 +1,14 @@
 {
- "name": "ニドトクルナの部屋",
  "id": "ニドトクルナの部屋",
- "position": 16,
- "type": "text",
- "overwrites": {
-  "role": {},
-  "member": {}
- },
- "topic": "",
- "slowmode_delay": 0,
+ "is_news": false,
  "is_nsfw": false,
- "is_news": false
+ "name": "ニドトクルナの部屋",
+ "overwrites": {
+  "member": {},
+  "role": {}
+ },
+ "position": 16,
+ "slowmode_delay": 0,
+ "topic": "",
+ "type": "text"
 }

@@ -1,12 +1,12 @@
 {
- "name": "作業部屋１",
+ "bitrate": 64000,
  "id": "作業部屋１",
+ "name": "作業部屋１",
+ "overwrites": {
+  "member": {},
+  "role": {}
+ },
  "position": 9,
  "type": "voice",
- "overwrites": {
-  "role": {},
-  "member": {}
- },
- "bitrate": 64000,
  "user_limit": 0
 }

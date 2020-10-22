@@ -1,30 +1,30 @@
 {
- "name": "ごごの部屋",
  "id": "ごごの部屋",
- "position": 28,
- "type": "text",
+ "is_news": false,
+ "is_nsfw": true,
+ "name": "ごごの部屋",
  "overwrites": {
+  "member": {
+   "406038722493022222": {
+    "manage_channels": true,
+    "manage_messages": true,
+    "manage_roles": true
+   },
+   "596890082590457858": {
+    "create_instant_invite": true,
+    "manage_channels": true,
+    "manage_messages": true,
+    "manage_roles": true,
+    "manage_webhooks": true,
+    "send_messages": true
+   }
+  },
   "role": {
    "623449115178565642": {}
-  },
-  "member": {
-   "596890082590457858": {
-    "manage_roles": true,
-    "manage_messages": true,
-    "send_messages": true,
-    "manage_webhooks": true,
-    "manage_channels": true,
-    "create_instant_invite": true
-   },
-   "406038722493022222": {
-    "manage_roles": true,
-    "manage_messages": true,
-    "manage_channels": true
-   }
   }
  },
- "topic": "ジブラルタルこうき",
+ "position": 28,
  "slowmode_delay": 0,
- "is_nsfw": true,
- "is_news": false
+ "topic": "ジブラルタルこうき",
+ "type": "text"
 }

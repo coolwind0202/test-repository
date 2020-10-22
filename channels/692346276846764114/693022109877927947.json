@@ -1,35 +1,35 @@
 {
- "name": "ドデカミン",
  "id": "ドデカミン",
- "position": 15,
- "type": "text",
+ "is_news": false,
+ "is_nsfw": false,
+ "name": "ドデカミン",
  "overwrites": {
+  "member": {
+   "460324212582645761": {
+    "manage_channels": true,
+    "manage_messages": true,
+    "manage_roles": true,
+    "read_messages": true,
+    "send_messages": true
+   },
+   "596890082590457858": {
+    "create_instant_invite": true,
+    "manage_channels": true,
+    "manage_messages": true,
+    "manage_roles": true,
+    "manage_webhooks": true,
+    "read_messages": true,
+    "send_messages": true
+   }
+  },
   "role": {
    "623449115178565642": {
     "send_messages": true
    }
-  },
-  "member": {
-   "596890082590457858": {
-    "manage_roles": true,
-    "manage_messages": true,
-    "send_messages": true,
-    "manage_webhooks": true,
-    "read_messages": true,
-    "manage_channels": true,
-    "create_instant_invite": true
-   },
-   "460324212582645761": {
-    "manage_roles": true,
-    "manage_messages": true,
-    "send_messages": true,
-    "read_messages": true,
-    "manage_channels": true
-   }
   }
  },
- "topic": "https://discord.gg/bTJvSwp",
+ "position": 15,
  "slowmode_delay": 0,
- "is_nsfw": false,
- "is_news": false
+ "topic": "https://discord.gg/bTJvSwp",
+ "type": "text"
 }

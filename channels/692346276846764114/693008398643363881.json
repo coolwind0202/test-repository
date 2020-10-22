@@ -1,35 +1,35 @@
 {
- "name": "ちゅんちゅん",
  "id": "ちゅんちゅん",
- "position": 24,
- "type": "text",
+ "is_news": false,
+ "is_nsfw": false,
+ "name": "ちゅんちゅん",
  "overwrites": {
+  "member": {
+   "419514060107939842": {
+    "manage_channels": true,
+    "manage_messages": true,
+    "manage_roles": true,
+    "read_messages": true,
+    "send_messages": true
+   },
+   "596890082590457858": {
+    "create_instant_invite": true,
+    "manage_channels": true,
+    "manage_messages": true,
+    "manage_roles": true,
+    "manage_webhooks": true,
+    "read_messages": true,
+    "send_messages": true
+   }
+  },
   "role": {
    "623449115178565642": {
     "send_messages": false
    }
-  },
-  "member": {
-   "596890082590457858": {
-    "manage_roles": true,
-    "manage_messages": true,
-    "send_messages": true,
-    "manage_webhooks": true,
-    "read_messages": true,
-    "manage_channels": true,
-    "create_instant_invite": true
-   },
-   "419514060107939842": {
-    "manage_roles": true,
-    "manage_messages": true,
-    "send_messages": true,
-    "read_messages": true,
-    "manage_channels": true
-   }
   }
  },
- "topic": "",
+ "position": 24,
  "slowmode_delay": 0,
- "is_nsfw": false,
- "is_news": false
+ "topic": "",
+ "type": "text"
 }

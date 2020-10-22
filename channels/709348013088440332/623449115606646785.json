@@ -1,23 +1,23 @@
 {
- "name": "【加入・脱退】通知",
  "id": "【加入・脱退】通知",
- "position": 2,
- "type": "text",
+ "is_news": false,
+ "is_nsfw": false,
+ "name": "【加入・脱退】通知",
  "overwrites": {
-  "role": {
-   "623449115178565642": {
-    "send_messages": false,
-    "add_reactions": false
-   }
-  },
   "member": {
    "424137718961012737": {
     "send_messages": true
    }
+  },
+  "role": {
+   "623449115178565642": {
+    "add_reactions": false,
+    "send_messages": false
+   }
   }
  },
- "topic": "",
+ "position": 2,
  "slowmode_delay": 0,
- "is_nsfw": false,
- "is_news": false
+ "topic": "",
+ "type": "text"
 }

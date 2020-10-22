@@ -1,9 +1,9 @@
 {
- "name": "じねんじょと囚人部屋",
+ "bitrate": 96000,
  "id": "じねんじょと囚人部屋",
- "position": 7,
- "type": "voice",
+ "name": "じねんじょと囚人部屋",
  "overwrites": {
+  "member": {},
   "role": {
    "623449115178565642": {
     "speak": false
@@ -11,9 +11,9 @@
    "699555395441655819": {
     "speak": true
    }
-  },
-  "member": {}
+  }
  },
- "bitrate": 96000,
+ "position": 7,
+ "type": "voice",
  "user_limit": 0
 }

@@ -1,11 +1,11 @@
 {
- "name": "メインボイス",
  "id": "メインボイス",
- "position": 3,
- "type": "category",
+ "is_nsfw": false,
+ "name": "メインボイス",
  "overwrites": {
-  "role": {},
-  "member": {}
+  "member": {},
+  "role": {}
  },
- "is_nsfw": false
+ "position": 3,
+ "type": "category"
 }

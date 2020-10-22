@@ -1,11 +1,11 @@
 {
- "name": "Information",
  "id": "Information",
- "position": 1,
- "type": "category",
+ "is_nsfw": false,
+ "name": "Information",
  "overwrites": {
-  "role": {},
-  "member": {}
+  "member": {},
+  "role": {}
  },
- "is_nsfw": false
+ "position": 1,
+ "type": "category"
 }

@@ -1,35 +1,35 @@
 {
- "name": "食糧庫",
  "id": "食糧庫",
- "position": 23,
- "type": "text",
+ "is_news": false,
+ "is_nsfw": false,
+ "name": "食糧庫",
  "overwrites": {
+  "member": {
+   "596890082590457858": {
+    "create_instant_invite": true,
+    "manage_channels": true,
+    "manage_messages": true,
+    "manage_roles": true,
+    "manage_webhooks": true,
+    "read_messages": true,
+    "send_messages": true
+   },
+   "625161458145034270": {
+    "manage_channels": true,
+    "manage_messages": true,
+    "manage_roles": true,
+    "read_messages": true,
+    "send_messages": true
+   }
+  },
   "role": {
    "623449115178565642": {
     "read_messages": true
    }
-  },
-  "member": {
-   "596890082590457858": {
-    "manage_roles": true,
-    "manage_messages": true,
-    "send_messages": true,
-    "manage_webhooks": true,
-    "read_messages": true,
-    "manage_channels": true,
-    "create_instant_invite": true
-   },
-   "625161458145034270": {
-    "manage_roles": true,
-    "manage_messages": true,
-    "send_messages": true,
-    "read_messages": true,
-    "manage_channels": true
-   }
   }
  },
- "topic": "pythonのメモとかに使う\n書き込み可能\n腰鯖　https://discord.gg/gx4DfUV",
+ "position": 23,
  "slowmode_delay": 0,
- "is_nsfw": false,
- "is_news": false
+ "topic": "pythonのメモとかに使う\n書き込み可能\n腰鯖　https://discord.gg/gx4DfUV",
+ "type": "text"
 }
