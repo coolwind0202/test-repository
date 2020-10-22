@@ -1,0 +1,26 @@
+{
+ "name": "ウルタンの勉強部屋",
+ "id": "ウルタンの勉強部屋",
+ "position": 19,
+ "type": [
+  "text",
+  0
+ ],
+ "overwrites": {
+  "role": {},
+  "member": {
+   "596890082590457858": {
+    "send_messages": true,
+    "manage_roles": true,
+    "create_instant_invite": true,
+    "manage_messages": true,
+    "manage_channels": true,
+    "manage_webhooks": true
+   }
+  }
+ },
+ "topic": "もちんこもちんこナマコチンコブシブシクシザシチンコチダラケ",
+ "slowmode_delay": 0,
+ "is_nsfw": false,
+ "is_news": false
+}

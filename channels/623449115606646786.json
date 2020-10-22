@@ -1,0 +1,14 @@
+{
+ "name": "メインボイス",
+ "id": "メインボイス",
+ "position": 3,
+ "type": [
+  "category",
+  4
+ ],
+ "overwrites": {
+  "role": {},
+  "member": {}
+ },
+ "is_nsfw": false
+}

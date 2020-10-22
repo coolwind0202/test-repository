@@ -1,0 +1,24 @@
+{
+ "name": "闇の部屋",
+ "id": "闇の部屋",
+ "position": 21,
+ "type": [
+  "text",
+  0
+ ],
+ "overwrites": {
+  "role": {
+   "623449115178565642": {
+    "manage_roles": false,
+    "manage_messages": false,
+    "manage_channels": false,
+    "manage_webhooks": false
+   }
+  },
+  "member": {}
+ },
+ "topic": "",
+ "slowmode_delay": 0,
+ "is_nsfw": false,
+ "is_news": false
+}

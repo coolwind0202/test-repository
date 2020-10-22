@@ -1,0 +1,22 @@
+{
+ "name": "【加入・脱退】通知",
+ "id": "【加入・脱退】通知",
+ "position": 2,
+ "type": [
+  "text",
+  0
+ ],
+ "overwrites": {
+  "role": {
+   "623449115178565642": {
+    "send_messages": false,
+    "add_reactions": false
+   }
+  },
+  "member": {}
+ },
+ "topic": "",
+ "slowmode_delay": 0,
+ "is_nsfw": false,
+ "is_news": false
+}

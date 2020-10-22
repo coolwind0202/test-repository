@@ -1,0 +1,17 @@
+{
+ "name": "アルファイア",
+ "id": "アルファイア",
+ "position": 5,
+ "type": [
+  "voice",
+  2
+ ],
+ "overwrites": {
+  "role": {
+   "699555395441655819": {}
+  },
+  "member": {}
+ },
+ "bitrate": 64000,
+ "user_limit": 0
+}

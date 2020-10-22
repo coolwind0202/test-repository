@@ -1,0 +1,15 @@
+{
+ "name": "作業部屋１",
+ "id": "作業部屋１",
+ "position": 9,
+ "type": [
+  "voice",
+  2
+ ],
+ "overwrites": {
+  "role": {},
+  "member": {}
+ },
+ "bitrate": 64000,
+ "user_limit": 0
+}

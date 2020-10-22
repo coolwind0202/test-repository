@@ -1,0 +1,24 @@
+{
+ "name": "神のみぞ知る",
+ "id": "神のみぞ知る",
+ "position": 6,
+ "type": [
+  "text",
+  0
+ ],
+ "overwrites": {
+  "role": {
+   "623449115178565642": {
+    "read_messages": false
+   },
+   "630035037202677761": {
+    "read_messages": true
+   }
+  },
+  "member": {}
+ },
+ "topic": "",
+ "slowmode_delay": 0,
+ "is_nsfw": false,
+ "is_news": false
+}

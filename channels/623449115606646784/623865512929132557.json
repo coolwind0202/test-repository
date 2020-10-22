@@ -1,0 +1,28 @@
+{
+ "name": "bot操作",
+ "id": "bot操作",
+ "position": 8,
+ "type": [
+  "text",
+  0
+ ],
+ "overwrites": {
+  "role": {
+   "699555395441655819": {
+    "send_messages": false
+   },
+   "700678375089504406": {
+    "send_messages": false
+   }
+  },
+  "member": {
+   "596890082590457858": {
+    "manage_messages": false
+   }
+  }
+ },
+ "topic": "",
+ "slowmode_delay": 0,
+ "is_nsfw": false,
+ "is_news": false
+}

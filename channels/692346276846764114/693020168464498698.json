@@ -1,0 +1,31 @@
+{
+ "name": "食糧庫",
+ "id": "食糧庫",
+ "position": 23,
+ "type": [
+  "text",
+  0
+ ],
+ "overwrites": {
+  "role": {
+   "623449115178565642": {
+    "read_messages": true
+   }
+  },
+  "member": {
+   "596890082590457858": {
+    "send_messages": true,
+    "read_messages": true,
+    "manage_roles": true,
+    "create_instant_invite": true,
+    "manage_messages": true,
+    "manage_channels": true,
+    "manage_webhooks": true
+   }
+  }
+ },
+ "topic": "pythonのメモとかに使う\n書き込み可能\n腰鯖　https://discord.gg/gx4DfUV",
+ "slowmode_delay": 0,
+ "is_nsfw": false,
+ "is_news": false
+}
