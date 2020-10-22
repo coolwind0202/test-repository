@@ -1,6 +1,6 @@
 {
- "name": "\u6a29\u9650\u4ed8\u4e0e",
- "id": "\u6a29\u9650\u4ed8\u4e0e",
+ "name": "権限付与",
+ "id": "権限付与",
  "position": 3,
  "type": [
   "text",
@@ -12,9 +12,9 @@
     "send_messages": false
    },
    "630274611270909962": {
-    "read_messages": true,
+    "send_messages": true,
     "read_message_history": true,
-    "send_messages": true
+    "read_messages": true
    },
    "662536706305687582": {
     "send_messages": true
@@ -25,7 +25,7 @@
   },
   "member": {}
  },
- "topic": "\u5404\u30e1\u30c3\u30bb\u30fc\u30b8\u306b\u30ea\u30a2\u30af\u30b7\u30e7\u30f3\u3092\u8ffd\u52a0\u3059\u308b\u3068\u3001\u305d\u306e\u30e1\u30c3\u30bb\u30fc\u30b8\u306b\u66f8\u304b\u308c\u305f\u5f79\u8077\u30fb\u30c1\u30e3\u30f3\u30cd\u30eb\u66f8\u304d\u8fbc\u307f\u6a29\u9650\u3092\u5f97\u308b\u3053\u3068\u304c\u3067\u304d\u307e\u3059\u3002",
+ "topic": "各メッセージにリアクションを追加すると、そのメッセージに書かれた役職・チャンネル書き込み権限を得ることができます。",
  "slowmode_delay": 0,
  "is_nsfw": false,
  "is_news": false

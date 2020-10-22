@@ -1,6 +1,6 @@
 {
- "name": "\u20e3\u96d1\u8ac7",
- "id": "\u20e3\u96d1\u8ac7",
+ "name": "⃣雑談",
+ "id": "⃣雑談",
  "position": 5,
  "type": [
   "text",
@@ -12,24 +12,24 @@
     "send_messages": false
    },
    "700678375089504406": {
-    "read_messages": true,
-    "send_messages": false
+    "send_messages": false,
+    "read_messages": true
    }
   },
   "member": {
    "596890082590457858": {
-    "manage_webhooks": true,
     "manage_roles": true,
-    "send_tts_messages": true,
     "manage_messages": true,
-    "read_messages": true,
-    "create_instant_invite": true,
+    "manage_webhooks": true,
     "send_messages": true,
-    "manage_channels": true
+    "manage_channels": true,
+    "read_messages": true,
+    "send_tts_messages": true,
+    "create_instant_invite": true
    }
   }
  },
- "topic": "\u904e\u5ea6\u306a\u4e0b\u30cd\u30bf\u30fb\u30b0\u30ed\u30fb\u4e0d\u5feb\u306b\u306a\u308b\u3088\u3046\u306a\u8a00\u52d5\u306f\u8b39\u614e",
+ "topic": "過度な下ネタ・グロ・不快になるような言動は謹慎",
  "slowmode_delay": 0,
  "is_nsfw": false,
  "is_news": false

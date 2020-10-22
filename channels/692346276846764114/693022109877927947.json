@@ -1,6 +1,6 @@
 {
- "name": "\u30c9\u30c7\u30ab\u30df\u30f3",
- "id": "\u30c9\u30c7\u30ab\u30df\u30f3",
+ "name": "ドデカミン",
+ "id": "ドデカミン",
  "position": 15,
  "type": [
   "text",
@@ -14,13 +14,13 @@
   },
   "member": {
    "596890082590457858": {
-    "manage_webhooks": true,
     "manage_roles": true,
     "manage_messages": true,
-    "read_messages": true,
-    "create_instant_invite": true,
+    "manage_webhooks": true,
     "send_messages": true,
-    "manage_channels": true
+    "manage_channels": true,
+    "read_messages": true,
+    "create_instant_invite": true
    }
   }
  },

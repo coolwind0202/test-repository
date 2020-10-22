@@ -1,6 +1,6 @@
 {
- "name": "\u3061\u3085\u3093\u3061\u3085\u3093",
- "id": "\u3061\u3085\u3093\u3061\u3085\u3093",
+ "name": "ちゅんちゅん",
+ "id": "ちゅんちゅん",
  "position": 24,
  "type": [
   "text",
@@ -14,13 +14,13 @@
   },
   "member": {
    "596890082590457858": {
-    "manage_webhooks": true,
     "manage_roles": true,
     "manage_messages": true,
-    "read_messages": true,
-    "create_instant_invite": true,
+    "manage_webhooks": true,
     "send_messages": true,
-    "manage_channels": true
+    "manage_channels": true,
+    "read_messages": true,
+    "create_instant_invite": true
    }
   }
  },

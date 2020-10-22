@@ -1,6 +1,6 @@
 {
- "name": "\u907a\u7523",
- "id": "\u907a\u7523",
+ "name": "遺産",
+ "id": "遺産",
  "position": 5,
  "type": [
   "category",
@@ -9,15 +9,15 @@
  "overwrites": {
   "role": {
    "623449115178565642": {
-    "read_messages": false,
-    "read_message_history": false,
     "send_messages": false,
+    "read_message_history": false,
+    "read_messages": false,
     "connect": false
    },
    "662536706305687582": {
-    "read_messages": true,
+    "send_messages": true,
     "read_message_history": true,
-    "send_messages": true
+    "read_messages": true
    }
   },
   "member": {}

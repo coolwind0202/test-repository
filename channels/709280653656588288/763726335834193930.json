@@ -1,6 +1,6 @@
 {
- "name": "\u3075\u3049\u308b\u3066\u3043\u3059\u306e\u90e8\u5c4b-\u30ec\u30f2\u3068\u540c\u68f2\u2764",
- "id": "\u3075\u3049\u308b\u3066\u3043\u3059\u306e\u90e8\u5c4b-\u30ec\u30f2\u3068\u540c\u68f2\u2764",
+ "name": "ふぉるてぃすの部屋-レヲと同棲❤",
+ "id": "ふぉるてぃすの部屋-レヲと同棲❤",
  "position": 29,
  "type": [
   "text",
@@ -9,15 +9,15 @@
  "overwrites": {
   "role": {
    "623449115178565642": {
-    "read_messages": false,
-    "read_message_history": false,
     "send_messages": false,
+    "read_message_history": false,
+    "read_messages": false,
     "connect": false
    },
    "662536706305687582": {
-    "read_messages": true,
+    "send_messages": true,
     "read_message_history": true,
-    "send_messages": true
+    "read_messages": true
    }
   },
   "member": {}

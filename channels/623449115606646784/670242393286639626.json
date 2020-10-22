@@ -1,6 +1,6 @@
 {
- "name": "\u53cd\u7701\u305b\u3088",
- "id": "\u53cd\u7701\u305b\u3088",
+ "name": "反省せよ",
+ "id": "反省せよ",
  "position": 10,
  "type": [
   "text",
@@ -9,26 +9,26 @@
  "overwrites": {
   "role": {
    "623449115178565642": {
-    "read_messages": false,
-    "send_messages": false
+    "send_messages": false,
+    "read_messages": false
    },
    "699555395441655819": {
-    "read_messages": true,
-    "send_messages": true
+    "send_messages": true,
+    "read_messages": true
    },
    "700678375089504406": {
-    "read_messages": true,
-    "send_messages": true
+    "send_messages": true,
+    "read_messages": true
    }
   },
   "member": {
    "596890082590457858": {
-    "manage_webhooks": true,
     "manage_roles": true,
     "manage_messages": true,
-    "create_instant_invite": true,
+    "manage_webhooks": true,
     "send_messages": true,
-    "manage_channels": true
+    "manage_channels": true,
+    "create_instant_invite": true
    }
   }
  },

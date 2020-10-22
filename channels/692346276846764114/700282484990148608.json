@@ -1,6 +1,6 @@
 {
- "name": "\u30c6\u30ad\u30fc\u30e9\u306e\u90e8\u5c4b",
- "id": "\u30c6\u30ad\u30fc\u30e9\u306e\u90e8\u5c4b",
+ "name": "テキーラの部屋",
+ "id": "テキーラの部屋",
  "position": 26,
  "type": [
   "text",
@@ -9,20 +9,20 @@
  "overwrites": {
   "role": {
    "623449115178565642": {
-    "send_tts_messages": true,
+    "send_messages": true,
     "read_messages": true,
-    "send_messages": true
+    "send_tts_messages": true
    }
   },
   "member": {
    "596890082590457858": {
-    "manage_webhooks": true,
     "manage_roles": true,
     "manage_messages": true,
-    "read_messages": true,
-    "create_instant_invite": true,
+    "manage_webhooks": true,
     "send_messages": true,
-    "manage_channels": true
+    "manage_channels": true,
+    "read_messages": true,
+    "create_instant_invite": true
    }
   }
  },

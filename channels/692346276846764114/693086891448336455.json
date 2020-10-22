@@ -1,6 +1,6 @@
 {
- "name": "\u3086\u3069\u30fc\u3075\u306e\u90e8\u5c4b",
- "id": "\u3086\u3069\u30fc\u3075\u306e\u90e8\u5c4b",
+ "name": "ゆどーふの部屋",
+ "id": "ゆどーふの部屋",
  "position": 22,
  "type": [
   "text",
@@ -14,13 +14,13 @@
   },
   "member": {
    "596890082590457858": {
-    "manage_webhooks": true,
     "manage_roles": true,
     "manage_messages": true,
-    "read_messages": true,
-    "create_instant_invite": true,
+    "manage_webhooks": true,
     "send_messages": true,
-    "manage_channels": true
+    "manage_channels": true,
+    "read_messages": true,
+    "create_instant_invite": true
    }
   }
  },

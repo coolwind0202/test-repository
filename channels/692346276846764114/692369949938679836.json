@@ -17,17 +17,17 @@
   },
   "member": {
    "596890082590457858": {
-    "manage_webhooks": true,
     "manage_roles": true,
     "manage_messages": true,
-    "read_messages": true,
-    "create_instant_invite": true,
+    "manage_webhooks": true,
     "send_messages": true,
-    "manage_channels": true
+    "manage_channels": true,
+    "read_messages": true,
+    "create_instant_invite": true
    }
   }
  },
- "topic": "\u3053\u3053\u3067\u3042\u3052\u308b\u3082\u306e\n\uff65\u4e0d\u7a4f",
+ "topic": "ここであげるもの\n･不穏",
  "slowmode_delay": 0,
  "is_nsfw": false,
  "is_news": false
