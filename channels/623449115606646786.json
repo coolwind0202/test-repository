@@ -1,1 +1,14 @@
-{"name": "\u30e1\u30a4\u30f3\u30dc\u30a4\u30b9", "id": "\u30e1\u30a4\u30f3\u30dc\u30a4\u30b9", "position": 3, "type": ["category", 4], "overwrites": {"role": {}, "member": {}}, "is_nsfw": false}
+{
+ "name": "\u30e1\u30a4\u30f3\u30dc\u30a4\u30b9",
+ "id": "\u30e1\u30a4\u30f3\u30dc\u30a4\u30b9",
+ "position": 3,
+ "type": [
+  "category",
+  4
+ ],
+ "overwrites": {
+  "role": {},
+  "member": {}
+ },
+ "is_nsfw": false
+}

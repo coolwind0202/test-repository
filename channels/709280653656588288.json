@@ -1,1 +1,26 @@
-{"name": "\u907a\u7523", "id": "\u907a\u7523", "position": 5, "type": ["category", 4], "overwrites": {"role": {"623449115178565642": {"mute_members": null, "manage_webhooks": null, "create_instant_invite": null, "attach_files": null, "manage_nicknames": null, "send_tts_messages": null, "read_message_history": false, "view_guild_insights": null, "deafen_members": null, "read_messages": false, "move_members": null, "mention_everyone": null, "manage_messages": null, "stream": null, "external_emojis": null, "use_voice_activation": null, "connect": false, "priority_speaker": null, "ban_members": null, "speak": null, "send_messages": false, "embed_links": null, "change_nickname": null, "administrator": null, "manage_roles": null, "manage_emojis": null, "manage_guild": null, "manage_channels": null, "kick_members": null, "add_reactions": null, "view_audit_log": null}, "662536706305687582": {"mute_members": null, "manage_webhooks": null, "create_instant_invite": null, "attach_files": null, "manage_nicknames": null, "send_tts_messages": null, "read_message_history": true, "view_guild_insights": null, "deafen_members": null, "read_messages": true, "move_members": null, "mention_everyone": null, "manage_messages": null, "stream": null, "external_emojis": null, "use_voice_activation": null, "connect": null, "priority_speaker": null, "ban_members": null, "speak": null, "send_messages": true, "embed_links": null, "change_nickname": null, "administrator": null, "manage_roles": null, "manage_emojis": null, "manage_guild": null, "manage_channels": null, "kick_members": null, "add_reactions": null, "view_audit_log": null}}, "member": {}}, "is_nsfw": false}
+{
+ "name": "\u907a\u7523",
+ "id": "\u907a\u7523",
+ "position": 5,
+ "type": [
+  "category",
+  4
+ ],
+ "overwrites": {
+  "role": {
+   "623449115178565642": {
+    "read_messages": false,
+    "read_message_history": false,
+    "send_messages": false,
+    "connect": false
+   },
+   "662536706305687582": {
+    "read_messages": true,
+    "read_message_history": true,
+    "send_messages": true
+   }
+  },
+  "member": {}
+ },
+ "is_nsfw": false
+}

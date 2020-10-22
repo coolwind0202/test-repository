@@ -1,1 +1,36 @@
-{"name": "\u20e3\u96d1\u8ac7", "id": "\u20e3\u96d1\u8ac7", "position": 5, "type": ["text", 0], "overwrites": {"role": {"699555395441655819": {"mute_members": null, "manage_webhooks": null, "create_instant_invite": null, "attach_files": null, "manage_nicknames": null, "send_tts_messages": null, "read_message_history": null, "view_guild_insights": null, "deafen_members": null, "read_messages": null, "move_members": null, "mention_everyone": null, "manage_messages": null, "stream": null, "external_emojis": null, "use_voice_activation": null, "connect": null, "priority_speaker": null, "ban_members": null, "speak": null, "send_messages": false, "embed_links": null, "change_nickname": null, "administrator": null, "manage_roles": null, "manage_emojis": null, "manage_guild": null, "manage_channels": null, "kick_members": null, "add_reactions": null, "view_audit_log": null}, "700678375089504406": {"mute_members": null, "manage_webhooks": null, "create_instant_invite": null, "attach_files": null, "manage_nicknames": null, "send_tts_messages": null, "read_message_history": null, "view_guild_insights": null, "deafen_members": null, "read_messages": true, "move_members": null, "mention_everyone": null, "manage_messages": null, "stream": null, "external_emojis": null, "use_voice_activation": null, "connect": null, "priority_speaker": null, "ban_members": null, "speak": null, "send_messages": false, "embed_links": null, "change_nickname": null, "administrator": null, "manage_roles": null, "manage_emojis": null, "manage_guild": null, "manage_channels": null, "kick_members": null, "add_reactions": null, "view_audit_log": null}}, "member": {"596890082590457858": {"mute_members": null, "manage_webhooks": true, "create_instant_invite": true, "attach_files": null, "manage_nicknames": null, "send_tts_messages": true, "read_message_history": null, "view_guild_insights": null, "deafen_members": null, "read_messages": true, "move_members": null, "mention_everyone": null, "manage_messages": true, "stream": null, "external_emojis": null, "use_voice_activation": null, "connect": null, "priority_speaker": null, "ban_members": null, "speak": null, "send_messages": true, "embed_links": null, "change_nickname": null, "administrator": null, "manage_roles": true, "manage_emojis": null, "manage_guild": null, "manage_channels": true, "kick_members": null, "add_reactions": null, "view_audit_log": null}}}, "topic": "\u904e\u5ea6\u306a\u4e0b\u30cd\u30bf\u30fb\u30b0\u30ed\u30fb\u4e0d\u5feb\u306b\u306a\u308b\u3088\u3046\u306a\u8a00\u52d5\u306f\u8b39\u614e", "slowmode_delay": 0, "is_nsfw": false, "is_news": false}
+{
+ "name": "\u20e3\u96d1\u8ac7",
+ "id": "\u20e3\u96d1\u8ac7",
+ "position": 5,
+ "type": [
+  "text",
+  0
+ ],
+ "overwrites": {
+  "role": {
+   "699555395441655819": {
+    "send_messages": false
+   },
+   "700678375089504406": {
+    "read_messages": true,
+    "send_messages": false
+   }
+  },
+  "member": {
+   "596890082590457858": {
+    "manage_webhooks": true,
+    "manage_roles": true,
+    "send_tts_messages": true,
+    "manage_messages": true,
+    "read_messages": true,
+    "create_instant_invite": true,
+    "send_messages": true,
+    "manage_channels": true
+   }
+  }
+ },
+ "topic": "\u904e\u5ea6\u306a\u4e0b\u30cd\u30bf\u30fb\u30b0\u30ed\u30fb\u4e0d\u5feb\u306b\u306a\u308b\u3088\u3046\u306a\u8a00\u52d5\u306f\u8b39\u614e",
+ "slowmode_delay": 0,
+ "is_nsfw": false,
+ "is_news": false
+}

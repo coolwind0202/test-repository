@@ -1,1 +1,34 @@
-{"name": "ss\u30fcm\u3299\u60c5\u5831", "id": "ss\u30fcm\u3299\u60c5\u5831", "position": 9, "type": ["text", 0], "overwrites": {"role": {"623449115178565642": {"mute_members": null, "manage_webhooks": null, "create_instant_invite": null, "attach_files": null, "manage_nicknames": null, "send_tts_messages": null, "read_message_history": null, "view_guild_insights": null, "deafen_members": null, "read_messages": true, "move_members": null, "mention_everyone": null, "manage_messages": null, "stream": null, "external_emojis": null, "use_voice_activation": null, "connect": null, "priority_speaker": null, "ban_members": null, "speak": null, "send_messages": null, "embed_links": null, "change_nickname": null, "administrator": null, "manage_roles": null, "manage_emojis": null, "manage_guild": null, "manage_channels": null, "kick_members": null, "add_reactions": null, "view_audit_log": null}, "662536706305687582": {"mute_members": null, "manage_webhooks": null, "create_instant_invite": null, "attach_files": null, "manage_nicknames": null, "send_tts_messages": null, "read_message_history": null, "view_guild_insights": null, "deafen_members": null, "read_messages": true, "move_members": null, "mention_everyone": null, "manage_messages": null, "stream": null, "external_emojis": null, "use_voice_activation": null, "connect": null, "priority_speaker": null, "ban_members": null, "speak": null, "send_messages": null, "embed_links": null, "change_nickname": null, "administrator": null, "manage_roles": null, "manage_emojis": null, "manage_guild": null, "manage_channels": null, "kick_members": null, "add_reactions": null, "view_audit_log": null}, "699555395441655819": {"mute_members": null, "manage_webhooks": null, "create_instant_invite": null, "attach_files": null, "manage_nicknames": null, "send_tts_messages": null, "read_message_history": null, "view_guild_insights": null, "deafen_members": null, "read_messages": null, "move_members": null, "mention_everyone": null, "manage_messages": null, "stream": null, "external_emojis": null, "use_voice_activation": null, "connect": null, "priority_speaker": null, "ban_members": null, "speak": null, "send_messages": false, "embed_links": null, "change_nickname": null, "administrator": null, "manage_roles": null, "manage_emojis": null, "manage_guild": null, "manage_channels": null, "kick_members": null, "add_reactions": null, "view_audit_log": null}, "700678375089504406": {"mute_members": null, "manage_webhooks": null, "create_instant_invite": null, "attach_files": null, "manage_nicknames": null, "send_tts_messages": null, "read_message_history": null, "view_guild_insights": null, "deafen_members": null, "read_messages": null, "move_members": null, "mention_everyone": null, "manage_messages": null, "stream": null, "external_emojis": null, "use_voice_activation": null, "connect": null, "priority_speaker": null, "ban_members": null, "speak": null, "send_messages": false, "embed_links": null, "change_nickname": null, "administrator": null, "manage_roles": null, "manage_emojis": null, "manage_guild": null, "manage_channels": null, "kick_members": null, "add_reactions": null, "view_audit_log": null}}, "member": {"596890082590457858": {"mute_members": null, "manage_webhooks": null, "create_instant_invite": null, "attach_files": null, "manage_nicknames": null, "send_tts_messages": null, "read_message_history": null, "view_guild_insights": null, "deafen_members": null, "read_messages": null, "move_members": null, "mention_everyone": null, "manage_messages": false, "stream": null, "external_emojis": null, "use_voice_activation": null, "connect": null, "priority_speaker": null, "ban_members": null, "speak": null, "send_messages": null, "embed_links": null, "change_nickname": null, "administrator": null, "manage_roles": null, "manage_emojis": null, "manage_guild": null, "manage_channels": null, "kick_members": null, "add_reactions": null, "view_audit_log": null}}}, "topic": "\uff1c\u30c1\u30e3\u30f3\u30cd\u30eb\u8da3\u65e8\uff1e\n\u3057\u30fc\u305f\u3051BOT\u306e\u300c_secret\u300d\u30b3\u30de\u30f3\u30c9\u3067\u5b9f\u884c\u306b\u5229\u7528\u3055\u308c\u308b\u30c1\u30e3\u30f3\u30cd\u30eb\u3067\u3059\u3002\n\u5b9f\u884c\u6642\u306b\u306f\u3053\u306e\u30c1\u30e3\u30f3\u30cd\u30eb\u306e\u30e1\u30c3\u30bb\u30fc\u30b8\u5c65\u6b74\u3092\u53d6\u5f97\u3057\u3001\u30e9\u30f3\u30c0\u30e0\u3067\u51fa\u529b\u3059\u308b\u3088\u3046\u306b\u30d7\u30ed\u30b0\u30e9\u30e0\u3055\u308c\u3066\u3044\u307e\u3059\u3002\n\n\u300c:secret:\u60c5\u5831\u300d\u3068\u3044\u3046\u5358\u8a9e\u304c1\u884c\u76ee\u306b\u3042\u308a\u3001\u304b\u30642\u884c\u76ee\u4ee5\u964d\u306b\u5185\u5bb9\u304c\u8a18\u8f09\u3055\u308c\u3066\u3044\u308b\u30e1\u30c3\u30bb\u30fc\u30b8\u3001\u304c\u5c65\u6b74\u3068\u3057\u3066\u306e\u8981\u4ef6\u3067\u3059\u3002\n\u305d\u308c\u306b\u5f53\u3066\u306f\u307e\u3089\u306a\u3044\u30e1\u30c3\u30bb\u30fc\u30b8\u306f\u306a\u308b\u3079\u304f\u6295\u7a3f\u3092\u63a7\u3048\u3066\u3044\u305f\u3060\u3051\u308c\u3070\u3068\u601d\u3044\u307e\u3059\u3002", "slowmode_delay": 0, "is_nsfw": false, "is_news": false}
+{
+ "name": "ss\u30fcm\u3299\u60c5\u5831",
+ "id": "ss\u30fcm\u3299\u60c5\u5831",
+ "position": 9,
+ "type": [
+  "text",
+  0
+ ],
+ "overwrites": {
+  "role": {
+   "623449115178565642": {
+    "read_messages": true
+   },
+   "662536706305687582": {
+    "read_messages": true
+   },
+   "699555395441655819": {
+    "send_messages": false
+   },
+   "700678375089504406": {
+    "send_messages": false
+   }
+  },
+  "member": {
+   "596890082590457858": {
+    "manage_messages": false
+   }
+  }
+ },
+ "topic": "\uff1c\u30c1\u30e3\u30f3\u30cd\u30eb\u8da3\u65e8\uff1e\n\u3057\u30fc\u305f\u3051BOT\u306e\u300c_secret\u300d\u30b3\u30de\u30f3\u30c9\u3067\u5b9f\u884c\u306b\u5229\u7528\u3055\u308c\u308b\u30c1\u30e3\u30f3\u30cd\u30eb\u3067\u3059\u3002\n\u5b9f\u884c\u6642\u306b\u306f\u3053\u306e\u30c1\u30e3\u30f3\u30cd\u30eb\u306e\u30e1\u30c3\u30bb\u30fc\u30b8\u5c65\u6b74\u3092\u53d6\u5f97\u3057\u3001\u30e9\u30f3\u30c0\u30e0\u3067\u51fa\u529b\u3059\u308b\u3088\u3046\u306b\u30d7\u30ed\u30b0\u30e9\u30e0\u3055\u308c\u3066\u3044\u307e\u3059\u3002\n\n\u300c:secret:\u60c5\u5831\u300d\u3068\u3044\u3046\u5358\u8a9e\u304c1\u884c\u76ee\u306b\u3042\u308a\u3001\u304b\u30642\u884c\u76ee\u4ee5\u964d\u306b\u5185\u5bb9\u304c\u8a18\u8f09\u3055\u308c\u3066\u3044\u308b\u30e1\u30c3\u30bb\u30fc\u30b8\u3001\u304c\u5c65\u6b74\u3068\u3057\u3066\u306e\u8981\u4ef6\u3067\u3059\u3002\n\u305d\u308c\u306b\u5f53\u3066\u306f\u307e\u3089\u306a\u3044\u30e1\u30c3\u30bb\u30fc\u30b8\u306f\u306a\u308b\u3079\u304f\u6295\u7a3f\u3092\u63a7\u3048\u3066\u3044\u305f\u3060\u3051\u308c\u3070\u3068\u601d\u3044\u307e\u3059\u3002",
+ "slowmode_delay": 0,
+ "is_nsfw": false,
+ "is_news": false
+}

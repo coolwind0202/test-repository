@@ -1,1 +1,24 @@
-{"name": "\u3068\u3042\u308b\u7d44\u7e54\u306e\u4e09\u671f\u6240\u671b", "id": "\u3068\u3042\u308b\u7d44\u7e54\u306e\u4e09\u671f\u6240\u671b", "position": 12, "type": ["text", 0], "overwrites": {"role": {"623449115178565642": {"mute_members": null, "manage_webhooks": null, "create_instant_invite": null, "attach_files": null, "manage_nicknames": null, "send_tts_messages": null, "read_message_history": null, "view_guild_insights": null, "deafen_members": null, "read_messages": false, "move_members": null, "mention_everyone": null, "manage_messages": null, "stream": null, "external_emojis": null, "use_voice_activation": null, "connect": null, "priority_speaker": null, "ban_members": null, "speak": null, "send_messages": null, "embed_links": null, "change_nickname": null, "administrator": null, "manage_roles": null, "manage_emojis": null, "manage_guild": null, "manage_channels": null, "kick_members": null, "add_reactions": null, "view_audit_log": null}, "710861503103893624": {"mute_members": null, "manage_webhooks": null, "create_instant_invite": null, "attach_files": null, "manage_nicknames": null, "send_tts_messages": null, "read_message_history": null, "view_guild_insights": null, "deafen_members": null, "read_messages": true, "move_members": null, "mention_everyone": null, "manage_messages": null, "stream": null, "external_emojis": null, "use_voice_activation": null, "connect": null, "priority_speaker": null, "ban_members": null, "speak": null, "send_messages": null, "embed_links": null, "change_nickname": null, "administrator": null, "manage_roles": null, "manage_emojis": null, "manage_guild": null, "manage_channels": null, "kick_members": null, "add_reactions": null, "view_audit_log": null}}, "member": {}}, "topic": "", "slowmode_delay": 0, "is_nsfw": false, "is_news": false}
+{
+ "name": "\u3068\u3042\u308b\u7d44\u7e54\u306e\u4e09\u671f\u6240\u671b",
+ "id": "\u3068\u3042\u308b\u7d44\u7e54\u306e\u4e09\u671f\u6240\u671b",
+ "position": 12,
+ "type": [
+  "text",
+  0
+ ],
+ "overwrites": {
+  "role": {
+   "623449115178565642": {
+    "read_messages": false
+   },
+   "710861503103893624": {
+    "read_messages": true
+   }
+  },
+  "member": {}
+ },
+ "topic": "",
+ "slowmode_delay": 0,
+ "is_nsfw": false,
+ "is_news": false
+}

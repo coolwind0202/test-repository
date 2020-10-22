@@ -1,1 +1,14 @@
-{"name": "Information", "id": "Information", "position": 1, "type": ["category", 4], "overwrites": {"role": {}, "member": {}}, "is_nsfw": false}
+{
+ "name": "Information",
+ "id": "Information",
+ "position": 1,
+ "type": [
+  "category",
+  4
+ ],
+ "overwrites": {
+  "role": {},
+  "member": {}
+ },
+ "is_nsfw": false
+}

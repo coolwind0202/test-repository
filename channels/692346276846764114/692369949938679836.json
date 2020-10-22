@@ -1,1 +1,34 @@
-{"name": "mochi-house", "id": "mochi-house", "position": 14, "type": ["text", 0], "overwrites": {"role": {"623449115178565642": {"mute_members": null, "manage_webhooks": null, "create_instant_invite": null, "attach_files": null, "manage_nicknames": null, "send_tts_messages": null, "read_message_history": null, "view_guild_insights": null, "deafen_members": null, "read_messages": null, "move_members": null, "mention_everyone": null, "manage_messages": null, "stream": null, "external_emojis": null, "use_voice_activation": null, "connect": null, "priority_speaker": null, "ban_members": null, "speak": null, "send_messages": true, "embed_links": null, "change_nickname": null, "administrator": null, "manage_roles": null, "manage_emojis": null, "manage_guild": null, "manage_channels": null, "kick_members": null, "add_reactions": null, "view_audit_log": null}, "661949079705747474": {"mute_members": null, "manage_webhooks": null, "create_instant_invite": null, "attach_files": null, "manage_nicknames": null, "send_tts_messages": null, "read_message_history": null, "view_guild_insights": null, "deafen_members": null, "read_messages": null, "move_members": null, "mention_everyone": null, "manage_messages": null, "stream": null, "external_emojis": null, "use_voice_activation": null, "connect": null, "priority_speaker": null, "ban_members": null, "speak": null, "send_messages": true, "embed_links": null, "change_nickname": null, "administrator": null, "manage_roles": null, "manage_emojis": null, "manage_guild": null, "manage_channels": null, "kick_members": null, "add_reactions": null, "view_audit_log": null}}, "member": {"596890082590457858": {"mute_members": null, "manage_webhooks": true, "create_instant_invite": true, "attach_files": null, "manage_nicknames": null, "send_tts_messages": null, "read_message_history": null, "view_guild_insights": null, "deafen_members": null, "read_messages": true, "move_members": null, "mention_everyone": null, "manage_messages": true, "stream": null, "external_emojis": null, "use_voice_activation": null, "connect": null, "priority_speaker": null, "ban_members": null, "speak": null, "send_messages": true, "embed_links": null, "change_nickname": null, "administrator": null, "manage_roles": true, "manage_emojis": null, "manage_guild": null, "manage_channels": true, "kick_members": null, "add_reactions": null, "view_audit_log": null}}}, "topic": "\u3053\u3053\u3067\u3042\u3052\u308b\u3082\u306e\n\uff65\u4e0d\u7a4f", "slowmode_delay": 0, "is_nsfw": false, "is_news": false}
+{
+ "name": "mochi-house",
+ "id": "mochi-house",
+ "position": 14,
+ "type": [
+  "text",
+  0
+ ],
+ "overwrites": {
+  "role": {
+   "623449115178565642": {
+    "send_messages": true
+   },
+   "661949079705747474": {
+    "send_messages": true
+   }
+  },
+  "member": {
+   "596890082590457858": {
+    "manage_webhooks": true,
+    "manage_roles": true,
+    "manage_messages": true,
+    "read_messages": true,
+    "create_instant_invite": true,
+    "send_messages": true,
+    "manage_channels": true
+   }
+  }
+ },
+ "topic": "\u3053\u3053\u3067\u3042\u3052\u308b\u3082\u306e\n\uff65\u4e0d\u7a4f",
+ "slowmode_delay": 0,
+ "is_nsfw": false,
+ "is_news": false
+}
