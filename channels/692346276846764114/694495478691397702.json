@@ -10,14 +10,37 @@
    }
   },
   "member": {
-   "596890082590457858": {
+   "475916023690821642": {
     "send_messages": true,
-    "manage_roles": true,
-    "manage_webhooks": true,
-    "create_instant_invite": true,
+    "read_messages": true
+   },
+   "476926182424838164": {
+    "send_messages": true,
+    "read_messages": true
+   },
+   "596890082590457858": {
+    "manage_messages": true,
+    "send_messages": true,
     "read_messages": true,
+    "manage_webhooks": true,
     "manage_channels": true,
-    "manage_messages": true
+    "manage_roles": true,
+    "create_instant_invite": true
+   },
+   "460324212582645761": {
+    "send_messages": true,
+    "read_messages": true,
+    "read_message_history": true
+   },
+   "625161458145034270": {
+    "send_messages": true,
+    "read_messages": true,
+    "read_message_history": true
+   },
+   "703595224727027723": {
+    "send_messages": true,
+    "read_messages": true,
+    "read_message_history": true
    }
   }
  },

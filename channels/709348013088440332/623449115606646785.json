@@ -6,11 +6,15 @@
  "overwrites": {
   "role": {
    "623449115178565642": {
-    "send_messages": false,
-    "add_reactions": false
+    "add_reactions": false,
+    "send_messages": false
    }
   },
-  "member": {}
+  "member": {
+   "424137718961012737": {
+    "send_messages": true
+   }
+  }
  },
  "topic": "",
  "slowmode_delay": 0,

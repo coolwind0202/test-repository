@@ -8,9 +8,22 @@
    "623449115178565642": {}
   },
   "member": {
-   "596890082590457858": {
+   "476926182424838164": {
+    "manage_messages": true,
     "send_messages": true,
-    "manage_messages": false
+    "read_messages": true,
+    "manage_channels": true,
+    "manage_roles": true
+   },
+   "596890082590457858": {
+    "manage_messages": false,
+    "send_messages": true
+   },
+   "460324212582645761": {
+    "send_messages": true
+   },
+   "625161458145034270": {
+    "send_messages": true
    }
   }
  },

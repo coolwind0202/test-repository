@@ -20,12 +20,12 @@
   },
   "member": {
    "596890082590457858": {
+    "manage_messages": true,
     "send_messages": true,
-    "manage_roles": true,
     "manage_webhooks": true,
-    "create_instant_invite": true,
     "manage_channels": true,
-    "manage_messages": true
+    "manage_roles": true,
+    "create_instant_invite": true
    }
   }
  },
