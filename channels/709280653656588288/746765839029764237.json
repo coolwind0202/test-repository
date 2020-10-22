@@ -2,22 +2,19 @@
  "name": "じねんじょの音楽室",
  "id": "じねんじょの音楽室",
  "position": 8,
- "type": [
-  "voice",
-  2
- ],
+ "type": "voice",
  "overwrites": {
   "role": {
    "623449115178565642": {
     "send_messages": false,
+    "read_message_history": false,
     "connect": false,
-    "read_messages": false,
-    "read_message_history": false
+    "read_messages": false
    },
    "662536706305687582": {
     "send_messages": true,
-    "read_messages": true,
-    "read_message_history": true
+    "read_message_history": true,
+    "read_messages": true
    }
   },
   "member": {}

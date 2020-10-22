@@ -2,23 +2,20 @@
  "name": "中津川",
  "id": "中津川",
  "position": 17,
- "type": [
-  "text",
-  0
- ],
+ "type": "text",
  "overwrites": {
   "role": {
    "623449115178565642": {
     "send_messages": true,
-    "embed_links": true,
-    "attach_files": true,
     "add_reactions": true,
+    "attach_files": true,
+    "read_message_history": true,
     "external_emojis": true,
     "mention_everyone": true,
+    "manage_webhooks": true,
     "read_messages": true,
-    "read_message_history": true,
-    "send_tts_messages": true,
-    "manage_webhooks": true
+    "embed_links": true,
+    "send_tts_messages": true
    }
   },
   "member": {}

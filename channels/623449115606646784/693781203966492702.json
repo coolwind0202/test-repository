@@ -2,10 +2,7 @@
  "name": "神のみぞ知る",
  "id": "神のみぞ知る",
  "position": 6,
- "type": [
-  "text",
-  0
- ],
+ "type": "text",
  "overwrites": {
   "role": {
    "623449115178565642": {

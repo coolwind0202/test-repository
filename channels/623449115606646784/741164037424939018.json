@@ -2,10 +2,7 @@
  "name": "神の味噌汁",
  "id": "神の味噌汁",
  "position": 7,
- "type": [
-  "text",
-  0
- ],
+ "type": "text",
  "overwrites": {
   "role": {
    "623449115178565642": {

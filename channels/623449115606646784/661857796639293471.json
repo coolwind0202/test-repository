@@ -2,10 +2,7 @@
  "name": "猥談",
  "id": "猥談",
  "position": 11,
- "type": [
-  "text",
-  0
- ],
+ "type": "text",
  "overwrites": {
   "role": {
    "623449115178565642": {

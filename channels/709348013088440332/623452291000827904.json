@@ -2,10 +2,7 @@
  "name": "上層部の呟き",
  "id": "上層部の呟き",
  "position": 0,
- "type": [
-  "text",
-  0
- ],
+ "type": "text",
  "overwrites": {
   "role": {
    "623449115178565642": {
@@ -24,10 +21,10 @@
   "member": {
    "596890082590457858": {
     "manage_roles": true,
+    "manage_webhooks": true,
     "create_instant_invite": true,
-    "manage_messages": true,
     "manage_channels": true,
-    "manage_webhooks": true
+    "manage_messages": true
    }
   }
  },

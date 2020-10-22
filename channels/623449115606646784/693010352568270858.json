@@ -2,10 +2,7 @@
  "name": "ssーm㊙情報",
  "id": "ssーm㊙情報",
  "position": 9,
- "type": [
-  "text",
-  0
- ],
+ "type": "text",
  "overwrites": {
   "role": {
    "623449115178565642": {

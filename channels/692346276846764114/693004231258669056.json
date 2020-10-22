@@ -2,10 +2,7 @@
  "name": "蒼の部屋",
  "id": "蒼の部屋",
  "position": 13,
- "type": [
-  "text",
-  0
- ],
+ "type": "text",
  "overwrites": {
   "role": {
    "623449115178565642": {}

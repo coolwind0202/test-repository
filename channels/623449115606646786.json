@@ -2,10 +2,7 @@
  "name": "メインボイス",
  "id": "メインボイス",
  "position": 3,
- "type": [
-  "category",
-  4
- ],
+ "type": "category",
  "overwrites": {
   "role": {},
   "member": {}

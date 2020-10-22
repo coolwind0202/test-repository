@@ -2,10 +2,7 @@
  "name": "バナナの部屋",
  "id": "バナナの部屋",
  "position": 27,
- "type": [
-  "text",
-  0
- ],
+ "type": "text",
  "overwrites": {
   "role": {},
   "member": {}

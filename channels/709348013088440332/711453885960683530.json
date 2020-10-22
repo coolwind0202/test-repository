@@ -2,10 +2,7 @@
  "name": "宣伝",
  "id": "宣伝",
  "position": 4,
- "type": [
-  "text",
-  0
- ],
+ "type": "text",
  "overwrites": {
   "role": {},
   "member": {}

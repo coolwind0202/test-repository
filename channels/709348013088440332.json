@@ -2,10 +2,7 @@
  "name": "Information",
  "id": "Information",
  "position": 1,
- "type": [
-  "category",
-  4
- ],
+ "type": "category",
  "overwrites": {
   "role": {},
   "member": {}

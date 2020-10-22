@@ -2,10 +2,7 @@
  "name": "作業部屋２",
  "id": "作業部屋２",
  "position": 10,
- "type": [
-  "voice",
-  2
- ],
+ "type": "voice",
  "overwrites": {
   "role": {},
   "member": {}

@@ -2,10 +2,7 @@
  "name": "食糧庫",
  "id": "食糧庫",
  "position": 23,
- "type": [
-  "text",
-  0
- ],
+ "type": "text",
  "overwrites": {
   "role": {
    "623449115178565642": {
@@ -15,12 +12,12 @@
   "member": {
    "596890082590457858": {
     "send_messages": true,
-    "read_messages": true,
     "manage_roles": true,
+    "manage_webhooks": true,
     "create_instant_invite": true,
-    "manage_messages": true,
+    "read_messages": true,
     "manage_channels": true,
-    "manage_webhooks": true
+    "manage_messages": true
    }
   }
  },

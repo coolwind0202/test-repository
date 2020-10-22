@@ -2,10 +2,7 @@
  "name": "メインテキスト",
  "id": "メインテキスト",
  "position": 2,
- "type": [
-  "category",
-  4
- ],
+ "type": "category",
  "overwrites": {
   "role": {},
   "member": {}

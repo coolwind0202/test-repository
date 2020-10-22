@@ -2,10 +2,7 @@
  "name": "bot操作",
  "id": "bot操作",
  "position": 8,
- "type": [
-  "text",
-  0
- ],
+ "type": "text",
  "overwrites": {
   "role": {
    "699555395441655819": {

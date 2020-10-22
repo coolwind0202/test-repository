@@ -2,10 +2,7 @@
  "name": "権限付与",
  "id": "権限付与",
  "position": 3,
- "type": [
-  "text",
-  0
- ],
+ "type": "text",
  "overwrites": {
   "role": {
    "623449115178565642": {
@@ -13,8 +10,8 @@
    },
    "630274611270909962": {
     "send_messages": true,
-    "read_messages": true,
-    "read_message_history": true
+    "read_message_history": true,
+    "read_messages": true
    },
    "662536706305687582": {
     "send_messages": true

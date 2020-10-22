@@ -2,10 +2,7 @@
  "name": "マンション",
  "id": "マンション",
  "position": 4,
- "type": [
-  "category",
-  4
- ],
+ "type": "category",
  "overwrites": {
   "role": {},
   "member": {}
