@@ -6,11 +6,13 @@
 
 
 
+- [Information](https://github.com/coolwind0202/test-repository/blob/main/channels/709348013088440332.json) [category]
 	- [上層部の呟き](https://github.com/coolwind0202/test-repository/blob/main/channels/709348013088440332/623452291000827904.json) [text]
 	- [説明](https://github.com/coolwind0202/test-repository/blob/main/channels/709348013088440332/709346680956256287.json) [text]
 	- [【加入・脱退】通知](https://github.com/coolwind0202/test-repository/blob/main/channels/709348013088440332/623449115606646785.json) [text]
 	- [権限付与](https://github.com/coolwind0202/test-repository/blob/main/channels/709348013088440332/709355974431080469.json) [text]
 	- [宣伝](https://github.com/coolwind0202/test-repository/blob/main/channels/709348013088440332/711453885960683530.json) [text]
+- [メインテキスト](https://github.com/coolwind0202/test-repository/blob/main/channels/623449115606646784.json) [category]
 	- [⃣雑談](https://github.com/coolwind0202/test-repository/blob/main/channels/623449115606646784/623766630903578645.json) [text]
 	- [神のみぞ知る](https://github.com/coolwind0202/test-repository/blob/main/channels/623449115606646784/693781203966492702.json) [text]
 	- [神の味噌汁](https://github.com/coolwind0202/test-repository/blob/main/channels/623449115606646784/741164037424939018.json) [text]
@@ -18,9 +20,11 @@
 	- [ssーm㊙情報](https://github.com/coolwind0202/test-repository/blob/main/channels/623449115606646784/693010352568270858.json) [text]
 	- [反省せよ](https://github.com/coolwind0202/test-repository/blob/main/channels/623449115606646784/670242393286639626.json) [text]
 	- [猥談](https://github.com/coolwind0202/test-repository/blob/main/channels/623449115606646784/661857796639293471.json) [text]
+- [メインボイス](https://github.com/coolwind0202/test-repository/blob/main/channels/623449115606646786.json) [category]
 	- [アルファイア](https://github.com/coolwind0202/test-repository/blob/main/channels/623449115606646786/623449115606646787.json) [voice]
 	- [ブラボーイ](https://github.com/coolwind0202/test-repository/blob/main/channels/623449115606646786/623865718617669662.json) [voice]
 	- [じねんじょと囚人部屋](https://github.com/coolwind0202/test-repository/blob/main/channels/623449115606646786/670209480612511764.json) [voice]
+- [マンション](https://github.com/coolwind0202/test-repository/blob/main/channels/692346276846764114.json) [category]
 	- [作業部屋１](https://github.com/coolwind0202/test-repository/blob/main/channels/692346276846764114/699833591227613235.json) [voice]
 	- [作業部屋２](https://github.com/coolwind0202/test-repository/blob/main/channels/692346276846764114/699833631597658122.json) [voice]
 	- [とある組織の三期所望](https://github.com/coolwind0202/test-repository/blob/main/channels/692346276846764114/710861806939144252.json) [text]
@@ -40,6 +44,7 @@
 	- [テキーラの部屋](https://github.com/coolwind0202/test-repository/blob/main/channels/692346276846764114/700282484990148608.json) [text]
 	- [バナナの部屋](https://github.com/coolwind0202/test-repository/blob/main/channels/692346276846764114/759195347431456828.json) [text]
 	- [ごごの部屋](https://github.com/coolwind0202/test-repository/blob/main/channels/692346276846764114/693008008686338078.json) [text]
+- [遺産](https://github.com/coolwind0202/test-repository/blob/main/channels/709280653656588288.json) [category]
 	- [じねんじょの音楽室](https://github.com/coolwind0202/test-repository/blob/main/channels/709280653656588288/746765839029764237.json) [voice]
 	- [ふぉるてぃすの部屋-レヲと同棲❤](https://github.com/coolwind0202/test-repository/blob/main/channels/709280653656588288/763726335834193930.json) [text]
 	- [バナナじねんじょだるい](https://github.com/coolwind0202/test-repository/blob/main/channels/709280653656588288/693008294226296853.json) [text]
