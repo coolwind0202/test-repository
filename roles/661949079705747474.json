@@ -1,13 +1,8 @@
 {
- "color": [
-  218,
-  0,
-  78
- ],
- "hoist": false,
- "mentionable": true,
- "name": "CEO",
- "permissions": {
+ "@mentionの許可": "可",
+ "オンラインメンバーを別に表示する": "しない",
+ "名前": "CEO",
+ "権限": {
   "add_reactions": true,
   "administrator": false,
   "attach_files": true,
@@ -40,5 +35,10 @@
   "view_audit_log": true,
   "view_guild_insights": false
  },
- "position": 40
+ "色（RGB）": [
+  218,
+  0,
+  78
+ ],
+ "順番": 40
 }

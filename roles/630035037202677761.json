@@ -1,13 +1,8 @@
 {
- "color": [
-  228,
-  180,
-  0
- ],
- "hoist": false,
- "mentionable": true,
- "name": "President",
- "permissions": {
+ "@mentionの許可": "可",
+ "オンラインメンバーを別に表示する": "しない",
+ "名前": "President",
+ "権限": {
   "add_reactions": true,
   "administrator": true,
   "attach_files": true,
@@ -40,5 +35,10 @@
   "view_audit_log": true,
   "view_guild_insights": false
  },
- "position": 42
+ "色（RGB）": [
+  228,
+  180,
+  0
+ ],
+ "順番": 42
 }

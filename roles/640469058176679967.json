@@ -1,13 +1,8 @@
 {
- "color": [
-  0,
-  0,
-  0
- ],
- "hoist": false,
- "mentionable": false,
- "name": "Rythm 2",
- "permissions": {
+ "@mentionの許可": "不可",
+ "オンラインメンバーを別に表示する": "しない",
+ "名前": "Rythm 2",
+ "権限": {
   "add_reactions": false,
   "administrator": true,
   "attach_files": false,
@@ -40,5 +35,10 @@
   "view_audit_log": false,
   "view_guild_insights": false
  },
- "position": 19
+ "色（RGB）": [
+  0,
+  0,
+  0
+ ],
+ "順番": 19
 }

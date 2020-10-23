@@ -1,13 +1,8 @@
 {
- "color": [
-  230,
-  126,
-  34
- ],
- "hoist": true,
- "mentionable": false,
- "name": "権限を持っている可能性と持っていない可能性持ち",
- "permissions": {
+ "@mentionの許可": "不可",
+ "オンラインメンバーを別に表示する": "する",
+ "名前": "権限を持っている可能性と持っていない可能性持ち",
+ "権限": {
   "add_reactions": true,
   "administrator": false,
   "attach_files": true,
@@ -40,5 +35,10 @@
   "view_audit_log": false,
   "view_guild_insights": false
  },
- "position": 11
+ "色（RGB）": [
+  230,
+  126,
+  34
+ ],
+ "順番": 11
 }

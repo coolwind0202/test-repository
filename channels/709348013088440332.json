@@ -1,11 +1,11 @@
 {
- "id": "Information",
- "is_nsfw": false,
- "name": "Information",
- "overwrites": {
-  "member": {},
-  "role": {}
+ "ID": "Information",
+ "NSFWチャンネル設定": "いいえ",
+ "タイプ": "category",
+ "名前": "Information",
+ "権限": {
+  "メンバー": {},
+  "ロール": {}
  },
- "position": 1,
- "type": "category"
+ "順番": 1
 }

@@ -1,13 +1,8 @@
 {
- "color": [
-  255,
-  0,
-  0
- ],
- "hoist": true,
- "mentionable": true,
- "name": "SSーM第三回ドラフト杯",
- "permissions": {
+ "@mentionの許可": "可",
+ "オンラインメンバーを別に表示する": "する",
+ "名前": "SSーM第三回ドラフト杯",
+ "権限": {
   "add_reactions": true,
   "administrator": false,
   "attach_files": true,
@@ -40,5 +35,10 @@
   "view_audit_log": false,
   "view_guild_insights": false
  },
- "position": 32
+ "色（RGB）": [
+  255,
+  0,
+  0
+ ],
+ "順番": 32
 }

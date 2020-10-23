@@ -1,13 +1,8 @@
 {
- "color": [
-  233,
-  30,
-  99
- ],
- "hoist": true,
- "mentionable": true,
- "name": "~ONE PIESE~",
- "permissions": {
+ "@mentionの許可": "可",
+ "オンラインメンバーを別に表示する": "する",
+ "名前": "~ONE PIESE~",
+ "権限": {
   "add_reactions": true,
   "administrator": false,
   "attach_files": true,
@@ -40,5 +35,10 @@
   "view_audit_log": false,
   "view_guild_insights": false
  },
- "position": 41
+ "色（RGB）": [
+  233,
+  30,
+  99
+ ],
+ "順番": 41
 }

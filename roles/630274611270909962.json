@@ -1,13 +1,8 @@
 {
- "color": [
-  91,
-  32,
-  118
- ],
- "hoist": true,
- "mentionable": true,
- "name": "bot",
- "permissions": {
+ "@mentionの許可": "可",
+ "オンラインメンバーを別に表示する": "する",
+ "名前": "bot",
+ "権限": {
   "add_reactions": true,
   "administrator": true,
   "attach_files": true,
@@ -40,5 +35,10 @@
   "view_audit_log": true,
   "view_guild_insights": true
  },
- "position": 35
+ "色（RGB）": [
+  91,
+  32,
+  118
+ ],
+ "順番": 35
 }

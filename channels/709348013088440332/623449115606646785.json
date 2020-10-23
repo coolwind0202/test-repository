@@ -1,23 +1,23 @@
 {
- "id": "【加入・脱退】通知",
- "is_news": false,
- "is_nsfw": false,
- "name": "【加入・脱退】通知",
- "overwrites": {
-  "member": {
+ "ID": "【加入・脱退】通知",
+ "NSFWチャンネル設定": "いいえ",
+ "タイプ": "text",
+ "トピック": "",
+ "ニュースチャンネル設定": "いいえ",
+ "低速モード秒数": 0,
+ "名前": "【加入・脱退】通知",
+ "権限": {
+  "メンバー": {
    "424137718961012737": {
-    "send_messages": true
+    "send_messages": "可"
    }
   },
-  "role": {
+  "ロール": {
    "623449115178565642": {
-    "add_reactions": false,
-    "send_messages": false
+    "add_reactions": "不可",
+    "send_messages": "不可"
    }
   }
  },
- "position": 2,
- "slowmode_delay": 0,
- "topic": "",
- "type": "text"
+ "順番": 2
 }

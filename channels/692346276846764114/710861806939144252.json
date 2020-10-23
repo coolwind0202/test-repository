@@ -1,21 +1,21 @@
 {
- "id": "とある組織の三期所望",
- "is_news": false,
- "is_nsfw": false,
- "name": "とある組織の三期所望",
- "overwrites": {
-  "member": {},
-  "role": {
+ "ID": "とある組織の三期所望",
+ "NSFWチャンネル設定": "いいえ",
+ "タイプ": "text",
+ "トピック": "",
+ "ニュースチャンネル設定": "いいえ",
+ "低速モード秒数": 0,
+ "名前": "とある組織の三期所望",
+ "権限": {
+  "メンバー": {},
+  "ロール": {
    "623449115178565642": {
-    "read_messages": false
+    "read_messages": "不可"
    },
    "710861503103893624": {
-    "read_messages": true
+    "read_messages": "可"
    }
   }
  },
- "position": 12,
- "slowmode_delay": 0,
- "topic": "",
- "type": "text"
+ "順番": 12
 }

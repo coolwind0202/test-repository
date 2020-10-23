@@ -1,35 +1,35 @@
 {
- "id": "食糧庫",
- "is_news": false,
- "is_nsfw": false,
- "name": "食糧庫",
- "overwrites": {
-  "member": {
+ "ID": "食糧庫",
+ "NSFWチャンネル設定": "いいえ",
+ "タイプ": "text",
+ "トピック": "pythonのメモとかに使う\n書き込み可能\n腰鯖　https://discord.gg/gx4DfUV",
+ "ニュースチャンネル設定": "いいえ",
+ "低速モード秒数": 0,
+ "名前": "食糧庫",
+ "権限": {
+  "メンバー": {
    "596890082590457858": {
-    "create_instant_invite": true,
-    "manage_channels": true,
-    "manage_messages": true,
-    "manage_roles": true,
-    "manage_webhooks": true,
-    "read_messages": true,
-    "send_messages": true
+    "create_instant_invite": "可",
+    "manage_channels": "可",
+    "manage_messages": "可",
+    "manage_roles": "可",
+    "manage_webhooks": "可",
+    "read_messages": "可",
+    "send_messages": "可"
    },
    "625161458145034270": {
-    "manage_channels": true,
-    "manage_messages": true,
-    "manage_roles": true,
-    "read_messages": true,
-    "send_messages": true
+    "manage_channels": "可",
+    "manage_messages": "可",
+    "manage_roles": "可",
+    "read_messages": "可",
+    "send_messages": "可"
    }
   },
-  "role": {
+  "ロール": {
    "623449115178565642": {
-    "read_messages": true
+    "read_messages": "可"
    }
   }
  },
- "position": 23,
- "slowmode_delay": 0,
- "topic": "pythonのメモとかに使う\n書き込み可能\n腰鯖　https://discord.gg/gx4DfUV",
- "type": "text"
+ "順番": 23
 }

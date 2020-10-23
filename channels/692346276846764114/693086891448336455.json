@@ -1,28 +1,28 @@
 {
- "id": "ゆどーふの部屋",
- "is_news": false,
- "is_nsfw": false,
- "name": "ゆどーふの部屋",
- "overwrites": {
-  "member": {
+ "ID": "ゆどーふの部屋",
+ "NSFWチャンネル設定": "いいえ",
+ "タイプ": "text",
+ "トピック": "",
+ "ニュースチャンネル設定": "いいえ",
+ "低速モード秒数": 0,
+ "名前": "ゆどーふの部屋",
+ "権限": {
+  "メンバー": {
    "596890082590457858": {
-    "create_instant_invite": true,
-    "manage_channels": true,
-    "manage_messages": true,
-    "manage_roles": true,
-    "manage_webhooks": true,
-    "read_messages": true,
-    "send_messages": true
+    "create_instant_invite": "可",
+    "manage_channels": "可",
+    "manage_messages": "可",
+    "manage_roles": "可",
+    "manage_webhooks": "可",
+    "read_messages": "可",
+    "send_messages": "可"
    }
   },
-  "role": {
+  "ロール": {
    "623449115178565642": {
-    "send_messages": false
+    "send_messages": "不可"
    }
   }
  },
- "position": 22,
- "slowmode_delay": 0,
- "topic": "",
- "type": "text"
+ "順番": 22
 }

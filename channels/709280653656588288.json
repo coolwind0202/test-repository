@@ -1,23 +1,23 @@
 {
- "id": "遺産",
- "is_nsfw": false,
- "name": "遺産",
- "overwrites": {
-  "member": {},
-  "role": {
+ "ID": "遺産",
+ "NSFWチャンネル設定": "いいえ",
+ "タイプ": "category",
+ "名前": "遺産",
+ "権限": {
+  "メンバー": {},
+  "ロール": {
    "623449115178565642": {
-    "connect": false,
-    "read_message_history": false,
-    "read_messages": false,
-    "send_messages": false
+    "connect": "不可",
+    "read_message_history": "不可",
+    "read_messages": "不可",
+    "send_messages": "不可"
    },
    "662536706305687582": {
-    "read_message_history": true,
-    "read_messages": true,
-    "send_messages": true
+    "read_message_history": "可",
+    "read_messages": "可",
+    "send_messages": "可"
    }
   }
  },
- "position": 5,
- "type": "category"
+ "順番": 5
 }

@@ -1,21 +1,21 @@
 {
- "id": "ドラフト杯関係",
- "is_news": false,
- "is_nsfw": false,
- "name": "ドラフト杯関係",
- "overwrites": {
-  "member": {},
-  "role": {
+ "ID": "ドラフト杯関係",
+ "NSFWチャンネル設定": "いいえ",
+ "タイプ": "text",
+ "トピック": "",
+ "ニュースチャンネル設定": "いいえ",
+ "低速モード秒数": 0,
+ "名前": "ドラフト杯関係",
+ "権限": {
+  "メンバー": {},
+  "ロール": {
    "623449115178565642": {
-    "read_messages": false
+    "read_messages": "不可"
    },
    "764075215168077834": {
-    "read_messages": true
+    "read_messages": "可"
    }
   }
  },
- "position": 31,
- "slowmode_delay": 0,
- "topic": "",
- "type": "text"
+ "順番": 31
 }

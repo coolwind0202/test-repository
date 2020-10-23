@@ -1,13 +1,8 @@
 {
- "color": [
-  0,
-  0,
-  0
- ],
- "hoist": true,
- "mentionable": false,
- "name": "上位権限持ち",
- "permissions": {
+ "@mentionの許可": "不可",
+ "オンラインメンバーを別に表示する": "する",
+ "名前": "上位権限持ち",
+ "権限": {
   "add_reactions": true,
   "administrator": false,
   "attach_files": true,
@@ -40,5 +35,10 @@
   "view_audit_log": false,
   "view_guild_insights": false
  },
- "position": 39
+ "色（RGB）": [
+  0,
+  0,
+  0
+ ],
+ "順番": 39
 }

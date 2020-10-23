@@ -1,13 +1,8 @@
 {
- "color": [
-  52,
-  152,
-  219
- ],
- "hoist": false,
- "mentionable": true,
- "name": "ERO",
- "permissions": {
+ "@mentionの許可": "可",
+ "オンラインメンバーを別に表示する": "しない",
+ "名前": "ERO",
+ "権限": {
   "add_reactions": true,
   "administrator": false,
   "attach_files": true,
@@ -40,5 +35,10 @@
   "view_audit_log": false,
   "view_guild_insights": false
  },
- "position": 37
+ "色（RGB）": [
+  52,
+  152,
+  219
+ ],
+ "順番": 37
 }

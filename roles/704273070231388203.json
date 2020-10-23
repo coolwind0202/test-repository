@@ -1,13 +1,8 @@
 {
- "color": [
-  102,
-  205,
-  170
- ],
- "hoist": false,
- "mentionable": false,
- "name": "color:#66CDAA",
- "permissions": {
+ "@mentionの許可": "不可",
+ "オンラインメンバーを別に表示する": "しない",
+ "名前": "color:#66CDAA",
+ "権限": {
   "add_reactions": false,
   "administrator": false,
   "attach_files": false,
@@ -40,5 +35,10 @@
   "view_audit_log": false,
   "view_guild_insights": false
  },
- "position": 8
+ "色（RGB）": [
+  102,
+  205,
+  170
+ ],
+ "順番": 8
 }
