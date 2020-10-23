@@ -1,7 +1,7 @@
 {
  "@mentionの許可": "不可",
  "オンラインメンバーを別に表示する": "しない",
- "名前": "color:#FF88FF",
+ "名前": "color:#99FF99",
  "権限": {
   "add_reactions": false,
   "administrator": false,
@@ -36,9 +36,9 @@
   "view_guild_insights": false
  },
  "色（RGB）": [
+  153,
   255,
-  136,
-  255
+  153
  ],
- "順番": 3
+ "順番": 1
 }
